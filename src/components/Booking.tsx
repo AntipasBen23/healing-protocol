@@ -106,6 +106,17 @@ export default function Booking() {
             <button className="form-submit" onClick={handleSubmit}>
               Send Enquiry via WhatsApp →
             </button>
+            <noscript>
+              <a
+                href={`${WA_BASE}?text=${encodeURIComponent('Hello, I would like to book a Food Therapy Assessment at The Healing Protocol.')}`}
+                className="form-submit"
+                target="_blank"
+                rel="noopener noreferrer"
+                style={{ display: 'block', textAlign: 'center', textDecoration: 'none', marginTop: 8 }}
+              >
+                Send Enquiry via WhatsApp →
+              </a>
+            </noscript>
           </div>
         </div>
       </div>

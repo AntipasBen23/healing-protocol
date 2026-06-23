@@ -33,6 +33,7 @@ export default function Academy() {
           <div>
             <span className="section-label">Professional Training</span>
             <h2 className="section-title">HealingProtocol Academy</h2>
+            <span className="gold-rule" />
             <p className="academy-sub">
               Train under Nigeria&apos;s most rigorous food therapy framework. Our certification
               programmes create the next generation of wellness practitioners built for the African context.

@@ -27,6 +27,16 @@ const dmMono = DM_Mono({
 export const metadata: Metadata = {
   title: 'The Healing Protocol — Food Therapy & Lifestyle Medicine Institution | Abuja, Nigeria',
   description: "Nigeria's premier food therapy and lifestyle medicine institution based in Abuja. Personalised protocols, executive wellness, membership programmes, and the HealingProtocol Academy.",
+  keywords: [
+    'food therapy Abuja',
+    'lifestyle medicine Nigeria',
+    'wellness clinic Abuja',
+    'diabetes reversal Nigeria',
+    'hypertension natural treatment Abuja',
+    'executive wellness programme Nigeria',
+    'nutrition consultation Abuja',
+    'food as medicine Nigeria',
+  ],
 }
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {

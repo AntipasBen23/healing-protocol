@@ -15,6 +15,7 @@ export default function Services() {
           <div>
             <span className="section-label">What We Do</span>
             <h2 className="section-title">Our Services</h2>
+            <span className="gold-rule" />
             <p className="services-intro">
               Every service is a door into the THP ecosystem. Choose your entry point. The protocol does the rest.
             </p>

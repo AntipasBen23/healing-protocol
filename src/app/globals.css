@@ -182,7 +182,7 @@ nav {
 }
 .hero-title em { font-style: italic; color: var(--gold2); }
 .hero-subtitle {
-  font-size: 16px; color: rgba(255,255,255,0.6);
+  font-size: 18px; color: rgba(255,255,255,0.6);
   line-height: 1.8; max-width: 440px; margin-bottom: 40px;
 }
 .hero-actions { display: flex; gap: 16px; flex-wrap: wrap; }
